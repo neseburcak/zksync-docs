@@ -7,7 +7,7 @@
 
 This repository contains the zkSync documentation hosted at [docs.zksync.io](https://docs.zksync.io)
 
-## Development
+## Development Details
 
 ### Prerequisites
 
